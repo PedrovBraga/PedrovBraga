@@ -6,7 +6,7 @@ PedrovBraga/PedrovBraga is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedrovBraga&show_icons=true&theme=transparent" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrovBraga&layout=compact&theme=transparent" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedrovBraga&show_icons=true&theme=transparent" /> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrovBraga&layout=compact&theme=transparent" />
 
 <img height="30em" width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> <img height="30em" width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img height= "30em" width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> <img height="30em" width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img height="30em" width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img height="30em" width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
